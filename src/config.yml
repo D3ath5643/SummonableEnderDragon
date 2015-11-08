@@ -1,0 +1,5 @@
+summonableOutsideEnd: false
+preventDragonGrief: true
+summonLimit: 0
+dropEgg: true
+summonPotionEffect: REGENERATION
